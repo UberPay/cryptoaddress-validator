@@ -1,0 +1,16 @@
+{
+  "name": "cryptoaddress-validator",
+  "version": "0.0.1",
+  "description": "Validates cryptocurrency addresses.",
+  "main": "main",
+  "keywords": [
+    "encoding",
+    "decoding",
+    "crypto",
+    "dogecoin",
+    "bitcoin",
+    "crypto currency address"
+  ],
+  "author": "George Demiris <geophoenix3@gmail.com>",
+  "license": "MIT"
+}
