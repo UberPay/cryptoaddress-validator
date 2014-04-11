@@ -33,7 +33,8 @@ None , `BigInt.js` is the only depedency which is already inside the package, an
 * true for valid addresses and false for invalid.
 */
 var CryptoAddressCheck=require("cryptoaddress-validator");
-if(CryptoAddressCheck("DBKh7QAP9gkXncVK32jtfae4QXChPwsyKH")){ // validating a dogecoin address
+ // validating a dogecoin address
+if(CryptoAddressCheck("DBKh7QAP9gkXncVK32jtfae4QXChPwsyKH")){
 	console.log("Valid address");
 }else{
 	console.log("Invalid address");
